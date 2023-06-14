@@ -1,1 +1,2 @@
 # DDoS-attack
+#This project was created to highlight what a DDoS attack is, and what it looks like in Cloud Computing. The negative effects DDoS plays in Cloud Computing is mentioned. Also presents possible DDoS protection and tools that are available.Futhermore, this project incorporates quarterly statistics of DDoS attacks in Cloud Computing in the year 2020 within countries.  The project includes a visually compiled presentation, a academic paper that goes into details of DDoS attack in Cloud Computing, and a source code that was created to display charts. 
